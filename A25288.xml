@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of severall observations to the reader worthy of perusall, concerning the cause of the subjects grievances hereunder expressed</title>
+            <author>T. A., well-willer for the publique good.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25288</idno>
+            <idno type="STC">Wing A30</idno>
+            <idno type="STC">ESTC R15798</idno>
+            <idno type="EEBO-CITATION">11849634</idno>
+            <idno type="OCLC">ocm 11849634</idno>
+            <idno type="VID">49902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25288)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49902)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 45:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of severall observations to the reader worthy of perusall, concerning the cause of the subjects grievances hereunder expressed</title>
+                  <author>T. A., well-willer for the publique good.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jane Coe ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: T.A. a well-willer for the publique good.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beer --  Taxation --  England.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:49902:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <head>A DECLARATION, <hi>OF SE<g ref="char:V">Ʋ</g>ERALL</hi> OBSERVATIONS <hi>TO THE</hi> READER, worthy of peruſall: Concerning the Cauſe of the Subjects Grievances hereunder expreſſed.</head>
+            <opener>Humbly Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat by the ſeverall Acts of Honourable PARLIAMENT, concerning what <hi>Brewers</hi> and <hi>Victuallers</hi> are li<g ref="char:EOLhyphen"/>mited to obſerve and perform, is contained in the firſt year of the late King <hi>James</hi> of bleſſed memory the 7th. Chapter; And the fourth of King <hi>James</hi> the fifth Chapter; And eſpecially, in the 21, of King <hi>James</hi> the 9th. Chapter.</p>
+            <p>Wherein it is plainly expreſſed, <hi>That no Victualler ſhall ſell leſſe then an Ale-quart of the beſt Bier or Ale for</hi> j. d. <hi>If he de, he ſhall forfeit</hi> xx. s. <hi>for every ſuch offence.</hi> As by the ſame Acts may appear.</p>
+            <p>And by the Ordinance of the Honourable Parliament, dated the 17. day of October, 1643. in theſe enſu<g ref="char:EOLhyphen"/>ing words; It is (verbatim expreſſed) <hi>That no Brewers or Retailers of any Bier or Ale, &amp;c. Shall take any more in the price thereof upon ſale of the ſaid commodities, then according to the uſuall rate and prizes appointed by Law for the ſame</hi> (excepting only the rate of Exciſe) <hi>as they will anſwer their contempt to both Houſes of Parliament.</hi>
+            </p>
+            <p>
+               <hi>Never theleſſe ſo it is;</hi>
+               <lb/>
+THat the ſaid <hi>Brewers</hi> contrary to the ſaid Acts and honourable Ordinance of Parliament, doth take of the Victualler xij. s. the Bar<g ref="char:EOLhyphen"/>rell, for every Barrell of Bier and ordinary Ale, which is iiij. s. above the Statute, in lieu of the ij. s. he payeth for Exciſe. And ta<g ref="char:EOLhyphen"/>keth of the Victualler for ſtrong Ale xvj. s. the Barrell, which is viij. s. in every Barrell above the Statute, for the two ſhillings he payeth for Exciſe. And for the Ale he retaileth at the Tun ſide, he taketh vj. d. <hi>per</hi> Gallon, which is after the rate of xviij. s. the Barrell, be<g ref="char:EOLhyphen"/>ing x. s. the Barrell above the Statute, for the ij. s. he payeth for Exciſe.</p>
+            <p>And the Victualler, who payeth xij. s. the Barrell, maketh by Retayl of every Barrell xxiiij. s. or at leaſt xxj. s. the Barrell: That is to ſay, By ſelling at ij. d. the Ale-quart it comes to xxiiij. s. And by retayling at vij. Farthings the quart comes to xxj. s. the Barrell. So in the firſt place he takes viij. s. beſides the ij. s. he payeth for Exciſe; beſides his ordinary gaine allowed by Statute: And in the ſecoad place he ta<g ref="char:EOLhyphen"/>keth v. s. in every Barrell, beſides the ij. s. he payeth for Exciſe; beſides his ordinary gaine allowed by the Statute.</p>
+            <p>And for the ſtrong Ale which the Victualler payeth to the Brewer xvj. s. the Barrell, he ſelleth the ſame at ij. d. the Wine-quart, which amounteth to xxx. s. the Barrell: So that he taketh xiiij. s. the Barrell; that is to ſay, x. s. in the Barrell cleerly: beſides his ordinary gaine allowed by the Statute.</p>
+            <p>That a Barrell of Beer containing 36. Ale Gallons, And every Gallon doth, or ſhould yeeld vj. Wine-quarts: So that j. d. farthing for every Wine-quart that is retailed out of dores by the Victualler is vij. d. half-peny the Ale Gallon, which amounteth to xxij. s. vj. d. the Barrell; whereby the Victualler tak<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s vj. s. vj. d. proſit upon every Barrell, beſides his ordinary gaine, and the Exciſe paid, which is con<g ref="char:EOLhyphen"/>ceived to be a contempt againſt the Statute; And by the Rates of Beer appeareth, and the Victuallers doings in the premiſes is con<g ref="char:EOLhyphen"/>trary to the Ordinance of the Honourable PARLIAMENT.</p>
+            <p>Now what the Subject or Commonalty hath and doth pay for Beer and Ale to them uttered in liew of the Exciſe, is willingly and freely done for the good of the State, but not with an intent to inrich, or be put into the Brewers, or Victuallers purſes; who (as before is mentioned) doe in an extraordinary way take that which is contrary to the Lawes and Ordinance of Parliament, And that the Brewer may take no more above the Statute, but that he returnes for Exciſe, And that the Victuallers may according to the Statute, and Honou<g ref="char:EOLhyphen"/>rable Ordinance, be limited at what Rates, and what ſized Meaſures the Subject ſhould be ſerved, which will give great contentment to the Commonalty.</p>
+            <p>And for the good of the State, and in their Name, the money that hath been heretofore taken, and gathered from the Subject and Commonalty, by the Brewer and Victualler, above the Statute and Honourable Ordinance; as in the Premiſes is plainly expreſſed, That the Brewer and Victualler may be compelled to pay the Arrearages in their hands ſince the Exciſe rated: which Money will amount to a mighty ſumme, to diſcharge and give ſatisfaction for the neceſſary Deſignes and Service in hand, for the good of the State.</p>
+            <p>For one peny half-peny, the Full-Pot or Flagon retailed within the Victuallers houſe, is xviij. s. the Barrell, and a peny a Wine-quart is no leſſe.</p>
+            <p>By which Premiſes, the Honourable State may receive 4. s. the Barrell for Exciſe; whereas they now receive but 2. s. The Victualler may ſell his Beer for a peny a Wine-quart out of dores, and one peny half-peny their beſt Beere the Full-Pot or Flagon in the houſe, and be great gainers, and neither the Brewer or Victualler pay no part of the Exciſe out of their owne gaines.</p>
+            <p>But the Commonalty that payeth for Beer and Ale at the Rates aforeſaid, the Exciſe cometh thereout.</p>
+            <p>And laſtly, it is moſt humbly prayed. That the good Lawes and Ordinances heretofore enacted and confirmed by the Honourable Parliaments in the Premiſes, may take effect, And a Reformation may now in the Premiſes, the Subject and Commonalty en<g ref="char:EOLhyphen"/>joy their Rights and Liberties therein, expreſſed in the memorable Covenant ordained by the Honourable Parliament, and Or<g ref="char:EOLhyphen"/>dinance of Exciſe may be much improved.</p>
+            <byline>By <hi>T. A.</hi> a Well-willer for the Publique good.</byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>JANE COE,</hi> according to Order. <hi>1645.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
